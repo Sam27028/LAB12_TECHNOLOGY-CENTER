@@ -5,8 +5,12 @@
 package app.cursos.techcenter.view;
 
 /**
- *
  * @author Yber-M;
+ * @author Casas Castillo,Marcia Veronica
+ * @author De la Cruz Ocaña, Joseth
+ * @author Esquives Zapata, Juan Jesus
+ * @author Quispe Olano Marlon Yber
+ * @author Navarro Quezada, Samuel Alexis
  */
 public class FrmTechCenterView extends javax.swing.JFrame {
 

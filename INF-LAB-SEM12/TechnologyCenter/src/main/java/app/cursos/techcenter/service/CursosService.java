@@ -1,8 +1,10 @@
 /**
  * @author Yber-M;
- * @email ybermarlon@gmail.com
- * @github https://github.com/Yber-M
- * @facebook https://www.facebook.com/MarlonYber.QO
+ * @author Casas Castillo,Marcia Veronica
+ * @author De la Cruz Ocaña, Joseth
+ * @author Esquives Zapata, Juan Jesus
+ * @author Quispe Olano Marlon Yber
+ * @author Navarro Quezada, Samuel Alexis
  */
 package app.cursos.techcenter.service;
 
